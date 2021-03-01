@@ -1,0 +1,1 @@
+<input type="{{ $type }}" name="{{ $name }}" id="{{ $name }}" class="form-control" value="{{ old($name) }}" required>

@@ -1,0 +1,1 @@
+<textarea class="form-control" name="{{ $name }}" rows="3" id="{{ $name }}">{{ old($name) }}</textarea>
